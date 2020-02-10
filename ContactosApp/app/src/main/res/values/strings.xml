@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+
+    <string name="lbl_título_principal">Sistema de Contactos</string>
+    <string name="lbl_opcion">Seleccione una opción</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_consultar_por_ID">Consultar por ID</string>
+    <string name="btn_consultar_todos">Consultar todos</string>
+
+    <string name="lbl_ingresar_contacto">Ingresar Contacto</string>
+    <string name="edit_text_ingresar_id">Ingresar ID</string>
+    <string name="edit_text_ingresar_nombar">Ingresar Nombre</string>
+    <string name="edit_text_ingresar_telefono">Ingresar Teléfono</string>
+    <string name="btn_ingresar_contacto">Ingresar Contacto</string>
+    <string name="mensaje_ingresar_contacto">Contacto ingresado con éxito</string>
+
+    <string name="lbl_modificar_contacto">Modificar Contacto</string>
+    <string name="edit_text_ingresar_id_buscar">Ingresar ID de contacto</string>
+    <string name="edit_text_id_contacto">ID de contacto</string>
+    <string name="edit_text_nombre_contacto">Nombre del contacto</string>
+    <string name="edit_text_telefono_contacto">Teléfono del contacto</string>
+    <string name="btn_modificar_contacto">Modificar Contacto</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="mensaje_contacto_modificado">Se ha editado el contacto</string>
+
+    <string name="lbl_eliminar_contacto">Eliminar contacto</string>
+    <string name="btn_eliminar_contacto">Eliminar contacto</string>
+    <string name="mensaje_advertencia_eliminar">Advertencia</string>
+    <string name="mensaje_advertencia_texto">¿Está seguro que desea eliminar el contacto?</string>
+    <string name="mensaje_advertencia_si">SI</string>
+    <string name="mensaje_advertencia_no">NO</string>
+    <string name="mensaje_contacto_eliminado">El contacto se ha eliminado</string>
+
+    <string name="lbl_consultar_contacto_id">Consultar por ID</string>
+
+    <string name="lbl_consultar_contactos">Consultar Contactos</string>
+    <string name="lbl_consultar_contactos_id">ID</string>
+    <string name="lbl_consultar_contactos_Nombre">Nombre</string>
+    <string name="lbl_consultar_contactos_telefono">Teléfono</string>
+
+
+</resources>
